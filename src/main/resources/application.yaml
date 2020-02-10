@@ -1,0 +1,7 @@
+camunda:
+  bpm:
+    admin-user:
+      id: admin
+      password: admin
+      first-name: Sergey
+      last-name: Boychenko
